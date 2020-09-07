@@ -1,2 +1,2 @@
 ## CNN Based Concrete crack detection
-![alt text](sample_images.jpg)
+![img](sample_images.jpg)
